@@ -59,11 +59,12 @@ section {
 }
 .hero {
     background-image: url("./hero-bg.jpeg");
-    height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    height: 600px;
 }
+
 .hero-form {
 background-color: #fce138;
 color: #024e76;
