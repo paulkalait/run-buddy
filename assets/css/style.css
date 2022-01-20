@@ -58,7 +58,7 @@ section {
     padding: 60px;
 }
 .hero {
-    background-image: url('/Users/paulkalait/Desktop/projects/run-buddy/assets/css/hero-bg.jpeg');
+    background-image: url("./hero-bg.jpeg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -224,4 +224,17 @@ margin-bottom: 15px;
     text-align: left;
     margin: 30px 0 0 60px;
     color: white;
+}
+.contact-info h3 {
+    color: #fce138;
+    font-size: 32px;
+}
+.contact-info p, .contact-info address {
+    margin: 20px 0;
+    line-height: 1.5;
+    font-size: 20px;
+    font-style: normal;
+}
+.contact-info a{
+    color: #fce138;
 }
