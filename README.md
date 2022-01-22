@@ -13,3 +13,4 @@ https://paulkalait.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Paul K.
 
+### ©️2019 Run Buddy, Inc 
